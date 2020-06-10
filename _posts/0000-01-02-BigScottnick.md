@@ -2,7 +2,7 @@
 	
 layout: slide
 	
-title: "Welcome to our second slide!"
+title: "No Luke, I am your Father!"
 ---	
 Your text	
 Use the left arrow to go back!
